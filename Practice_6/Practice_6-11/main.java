@@ -21,7 +21,7 @@ public class main implements Convertable{
     @Override
     public void convert(int temp) {
 
-        System.out.println("Температура в Фарингейтах = "+(1.8*temp+32)+" °F");
+        System.out.println("Температура в Фаренгейтах = "+(1.8*temp+32)+" °F");
         System.out.println("Температура в Кельвинах = "+(temp+273.15)+" K");
 
     }
