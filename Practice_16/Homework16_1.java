@@ -9,8 +9,5 @@ public class Homework16_1 {
 
         Form2 form2 = new Form2();
         form2.setVisible(true);
-
-        Form3 form3 = new Form3();
-        form3.setVisible(true);
     }
 }
